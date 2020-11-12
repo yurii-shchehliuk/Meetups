@@ -1,0 +1,134 @@
+.wrapper {
+}
+
+.header {
+    padding: 20px 0;
+    margin: 0 auto;
+    background: white;
+}
+
+.date {
+    color: #757575;
+}
+
+.title {
+    max-width: 900px;
+    margin: 10px 0;
+    font-weight: 600;
+    line-height: 1.4;
+}
+
+.author {
+    display: flex;
+    align-items: center;
+}
+
+.authorInfo {
+    padding-left: 20px;
+}
+
+.host {
+    color: #757575;
+}
+
+.name {
+    font-weight: 700;
+}
+
+
+.main {
+    background: #f6f7f8;
+    padding: 50px 0;
+    position: relative;
+}
+
+.mWrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left {
+    width: 60%;
+}
+
+.mainImg {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.LTitle {
+}
+
+.PTitle {
+
+}
+
+.PHeader {
+    display: flex;
+    justify-content: space-between;
+}
+
+.all {
+    color: dodgerblue;
+    cursor: pointer;
+}
+
+
+.participants {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 30px;
+    margin: 20px 0;
+}
+
+.right {
+    width: 30%;
+}
+
+.rightWrapper{
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: sticky;
+    top: 50px;
+}
+
+.meet {
+    display: flex;
+    padding: 20px;
+    align-items: center
+}
+
+.smallImg {
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+.meetInfo{
+    padding-left: 20px;
+}
+.meetName {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.meetType {
+    font-size: 14px;
+    color: #7d8084;
+}
+
+.timeIcon{
+    font-size: 28px;
+}
+
+.joinBtn{
+    width: 100%;
+    padding: 20px !important;
+}
+
+.paper{
+    border-radius: 10px;
+}
+

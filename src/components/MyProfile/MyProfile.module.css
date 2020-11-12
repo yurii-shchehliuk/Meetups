@@ -1,0 +1,35 @@
+.wrapp {
+    margin-top: 30px;
+}
+
+.form {
+    width: 500px;
+}
+
+
+.form input {
+    margin: 20px 0;
+}
+
+.descr {
+    margin-top: 20px !important;
+}
+
+.imgWrapp {
+    margin: 10px auto;
+}
+
+.imgWrapp img {
+    width: 200px;
+    height: 200px;
+}
+
+.btn {
+    width: 100%;
+    margin-top: 20px !important;
+}
+
+.link{
+    width: 100%;
+    margin: 0px;
+}

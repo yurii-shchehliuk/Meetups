@@ -1,0 +1,5 @@
+.item:hover{
+    background: #007bff;
+    transition: all .5s;
+    color: white;
+}

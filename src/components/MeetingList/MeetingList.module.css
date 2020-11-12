@@ -1,0 +1,32 @@
+.h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 30px;
+}
+
+.link {
+    cursor: pointer;
+}
+
+.switch {
+
+}
+
+.search {
+    cursor: pointer;
+}
+
+.search:hover {
+    transition: color .5s;
+    color: #715AFF;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}

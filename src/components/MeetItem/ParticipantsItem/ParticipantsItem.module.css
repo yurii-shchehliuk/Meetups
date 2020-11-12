@@ -1,0 +1,31 @@
+.wrapp {
+    width: 100%;
+    padding: 20px;
+}
+
+.name {
+    max-width: 80px;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 600;
+    line-height: 1.2;
+    font-size: 16px;
+}
+
+.role {
+    text-align: center;
+    color: #999999;
+    font-size: 12px;
+    margin: 5px 0;
+}
+
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.avatar{
+    margin: 10px;
+}
